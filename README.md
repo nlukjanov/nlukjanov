@@ -1,8 +1,15 @@
-### Hello everyone! 👋
+### Hello everyone! My name is Nik 👋
+#### I am software engineer from London, UK.
+
+- 🔭 I’m currently working on cool tech at [Nandos UK](https://www.nandos.co.uk/)
+- 🌱 I’m currently learning JavaScript Ecosystem, GCP and Terraform
+- 👯 I’m looking to collaborate on full stack apps and tooling
+- 🤔 I’m looking for help with TDD, BDD and testing in general
+- 💬 Ask me about engineering, finance and extreme sports
 
 ![nlukjanov's github stats](https://github-readme-stats.vercel.app/api?username=nlukjanov&count_private=true&show_icons=true&theme=algolia)
 
-### Languages
+### My Favourite Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -10,7 +17,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=900)
 
-### Technologies
+### Tools I use
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -23,14 +30,7 @@
 <!--
 **nlukjanov/nlukjanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 Here are some ideas to get you started:
 
