@@ -1,6 +1,7 @@
 ### Hello everyone! My name is Nik 👋
 #### I am software engineer from London, UK.
 
+- 💰 Previously I was working in Finance
 - 🔭 I’m currently working on cool tech at [Nandos UK](https://www.nandos.co.uk/)
 - 🌱 I’m currently learning JavaScript Ecosystem, GCP and Terraform
 - 👯 I’m looking to collaborate on full stack apps and tooling
