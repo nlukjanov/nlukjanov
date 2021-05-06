@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with TDD, BDD and testing in general
 - 💬 Ask me about engineering, finance and extreme sports
 
-![nlukjanov's github stats](https://github-readme-stats.vercel.app/api?username=nlukjanov&count_private=true&show_icons=true&theme=algolia)
+![nlukjanov's github stats](https://github-readme-stats.vercel.app/api?username=nlukjanov&count_private=true&show_icons=true&title_color=3340fc&text_color=3340fc)
 
 ### My Favourite Languages
 
@@ -28,11 +28,10 @@
 ![MongoDB](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nlukjanov&color=3340fc&line=3340fc&bg_color=fffefe)
+
 <!--
 **nlukjanov/nlukjanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 Here are some ideas to get you started:
 
 -->
