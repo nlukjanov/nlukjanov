@@ -28,8 +28,6 @@
 ![MongoDB](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nlukjanov&color=3340fc&line=3340fc&bg_color=fffefe)
-
 <!--
 **nlukjanov/nlukjanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
