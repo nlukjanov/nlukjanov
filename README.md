@@ -22,7 +22,6 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Django](https://img.shields.io/badge/-django-000?&logo=django)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
