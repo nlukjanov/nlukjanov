@@ -10,7 +10,7 @@
 
 ![nlukjanov's github stats](https://github-readme-stats.vercel.app/api?username=nlukjanov&count_private=true&show_icons=true&title_color=3340fc&text_color=3340fc)
 
-### My Favourite Languages
+### Languages I use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
