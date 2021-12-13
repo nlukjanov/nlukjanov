@@ -16,7 +16,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=900)
 
 ### Tools I use
 
