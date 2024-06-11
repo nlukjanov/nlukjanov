@@ -1,7 +1,7 @@
 ### Hello everyone! My name is Nik 👋
 #### I am software engineer from London, UK.
 
-- 💰 Previously I was working in Finance
+- 💰 Previously I worked in Finance
 - 🔭 I’m currently working on climate tech at [Sustain Life](https://www.sustain.life/)
 - 🌱 I’m currently using TS, React, Graphql, Python, Snowflake, Azure, SQL Server
 - 👯 I’m looking to collaborate on full stack apps and tooling
