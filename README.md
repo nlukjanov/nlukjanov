@@ -7,7 +7,9 @@
 - 👯 I’m looking to collaborate on full stack apps and tooling
 - 💬 Ask me about engineering, traveling and active sports
 
+<!-- 
 ![nlukjanov's github stats](https://github-readme-stats.vercel.app/api?username=nlukjanov&count_private=true&show_icons=true&title_color=3340fc&text_color=3340fc)
+-->
 
 ### Languages I use
 
