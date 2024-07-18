@@ -3,7 +3,7 @@
 
 - 💰 Previously I worked in Finance
 - 🔭 I’m currently working on climate tech at [Sustain Life](https://www.sustain.life/)
-- 🌱 I’m currently using TS, React, Graphql, Python, Snowflake, Azure, SQL Server
+- 🌱 I’m currently using TS, React, Graphql, Python, Snowflake, Azure, AWS, Docker, K8S, SQL Server
 - 👯 I’m looking to collaborate on full stack apps and tooling
 - 💬 Ask me about engineering, traveling and active sports
 
